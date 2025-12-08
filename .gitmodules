@@ -1,0 +1,9 @@
+[submodule "projects/backend-session-demo"]
+	path = projects/backend-session-demo
+	url = https://github.com/burnt-labs/xion-backend-session-demo.git
+[submodule "projects/todo-app-web-demo"]
+	path = projects/todo-app-web-demo
+	url = https://github.com/burnt-labs/todo-app-frontend.git
+[submodule "projects/todo-app-mobile-demo"]
+	path = projects/todo-app-mobile-demo
+	url = https://github.com/burnt-labs/todo-app-expo-demo.git
