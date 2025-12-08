@@ -1,2 +1,3 @@
-# examples
- Integration Examples of Xion network
+# Integration Examples of Xion network
+
+This repository contains integration examples of Xion network.
