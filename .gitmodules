@@ -7,3 +7,18 @@
 [submodule "projects/todo-app-mobile-demo"]
 	path = projects/todo-app-mobile-demo
 	url = https://github.com/burnt-labs/todo-app-expo-demo.git
+[submodule "projects/marketplace-demo"]
+	path = projects/marketplace-demo
+	url = https://github.com/burnt-labs/xion-marketplace-demo.git
+[submodule "projects/oauth2-app-demos"]
+	path = projects/oauth2-app-demos
+	url = https://github.com/burnt-labs/xion-oauth2-app-demo.git
+[submodule "projects/mobile-demo-with-expo"]
+	path = projects/mobile-demo-with-expo
+	url = https://github.com/burnt-labs/abstraxion-expo-demo.git
+[submodule "projects/zktls-reclaim-demo"]
+	path = projects/zktls-reclaim-demo
+	url = https://github.com/burnt-labs/abstraxion-reclaim-demo.git
+[submodule "projects/airhelp-demo"]
+	path = projects/airhelp-demo
+	url = https://github.com/burnt-labs/AirHelp-Demo.git
